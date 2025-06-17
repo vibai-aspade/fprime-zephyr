@@ -1,4 +1,3 @@
-
 /**
  * \brief PlatformTypes.h C-compatible type definitions for Linux/Darwin
  *
